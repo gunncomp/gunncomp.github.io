@@ -1,1 +1,6 @@
-some random text by one million monkeys
+GunnComp stock for consideration by MGS
+
+For a stocklist of items that were listed including part number, description and price click here.
+
+Photos of listed items:
+
