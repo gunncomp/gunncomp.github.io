@@ -4,3 +4,4 @@ For a stocklist of items that were listed including part number, description and
 
 Photos of listed items:
 
+<img src="www.gunncomp.github.io/P1010081.JPG" alt="PIC081">
